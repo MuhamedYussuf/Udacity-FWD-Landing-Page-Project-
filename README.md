@@ -1,6 +1,5 @@
 # Landing Page Project
-I don't know why my project got plagiarized! Even though I did it with my own, I worked hard to make the changes and submitting it again. I hope this project will be accepted.
-
+Finally, I have Finished the Project. The content was really great and I really learned a lot from this amazing course. I hope I did well and coverd most of the project aspects. 
 ## Brief through the steps I did
  *  Queried all sections and store the list in variable.
  *  created a list items and anchors using for each loop to bild a navigation-bar.
